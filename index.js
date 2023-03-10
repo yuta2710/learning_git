@@ -1,2 +1,2 @@
 console.log("Data");
-const METHOD = "PUT";
+const METHOD = "POST";
